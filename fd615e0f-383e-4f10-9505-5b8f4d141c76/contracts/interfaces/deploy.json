@@ -1,0 +1,14 @@
+{
+  "network": "devnet",
+  "chainId": "20258",
+  "rpc_url": "https://dev-rpc.codenut.dev",
+  "contracts": [
+    {
+      "address": "0xe5398d785419cc0453982cbd4da1143fa07edfd4",
+      "txHash": "0x442ae3470cf25ca76f6f5f0a376728f7bd12f0c66a7962d9dcf8505ab20cae87",
+      "contractName": "ZEROToken",
+      "abi": [],
+      "bytecode": ""
+    }
+  ]
+}
