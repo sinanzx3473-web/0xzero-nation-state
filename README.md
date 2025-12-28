@@ -156,7 +156,7 @@ become economic actors, they need:
 - Sepolia testnet ETH (free from https://sepoliafaucet.com)
 
 ### Step-by-Step
-1. **Visit the DApp:** https://fd615e0f-383e-4f10-9505-5b8f4d141c76--preview.codenut.xyz
+1. **Visit the DApp:** https://0xzero.codenut.xyz
 2. **Connect Wallet:** Click "CONNECT WALLET" button
 3. **Switch Network:** MetaMask will prompt to switch to Sepolia
 4. **Check Status:** See if you're already a citizen
